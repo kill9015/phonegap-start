@@ -20,6 +20,7 @@
         If you do not want any permissions to be added to your app, add the
         following tag to your config.xml; you will still have the INTERNET
         permission on your app, which PhoneGap requires.
+        testing the sync
     -->
     <preference name="permissions"                value="none"/>
 
